@@ -565,7 +565,7 @@ If you encounter any issues, please contact the bot administrator.
 def main():
     """Main function"""
     # Replace with your bot token from @BotFather
-    BOT_TOKEN = "7848347408:AAHMoykxmdsAA9KVNY1RL-FKU-is1X1FdMc"
+    BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
     
     if BOT_TOKEN == "YOUR_BOT_TOKEN_HERE":
         print("❌ Error: Please set your bot token!")
